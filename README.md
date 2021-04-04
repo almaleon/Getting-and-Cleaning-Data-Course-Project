@@ -1,4 +1,4 @@
-# JOHNS HOPKINS UNIVERSITY
+# Johns Hopkins University
 Peer-graded Assignment: Getting and Cleaning Data Project
 
 This project contains:
