@@ -1,5 +1,5 @@
-# Getting-and-Cleaning-Data-Course-Project
-peer graded assignment for week 4 of module 03 Getting and Cleaning the Data
+# JOHNS HOPKINS UNIVERSITY
+Peer-graded Assignment: Getting and Cleaning Data Project
 
 This project contains:
 
